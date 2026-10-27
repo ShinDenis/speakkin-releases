@@ -1,2 +1,1 @@
 # speakkin-releases
-SpeaKKin
